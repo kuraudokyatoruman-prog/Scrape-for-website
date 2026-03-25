@@ -36,14 +36,15 @@ Each book contains the following fields:
 ---
 
 ## 🧱 Project Structure
-project/
+<pre>
+project
 ├── main.py
 ├── scraper.py
 ├── save_csv.py
 ├── save_json.py
 ├── save_failed_csv.py
 └── data/
-
+</pre>
 ---
 
 ## ⚙️ Installation
