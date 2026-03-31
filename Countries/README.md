@@ -1,4 +1,4 @@
-# 📚 Books Scraper (Python)
+# 🌏 Countries Scraper (Python)
 
 ## 📝 Overview
 This project is a web scraping tool that extracts country data from **Scrape This Site**, a practice website designed for web scraping.
